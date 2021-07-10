@@ -3,4 +3,4 @@
 
 Requirements:
 
-*cherrypy (pip install cherrypy)
+* cherrypy (pip install cherrypy)
